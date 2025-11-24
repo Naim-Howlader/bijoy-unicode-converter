@@ -29,7 +29,6 @@ It allows developers to easily convert Bangla text written in Bijoy font encodin
 ## 💡 Tips
 
 - Make sure your input text is in Bijoy encoding.
-- You can pass associative arrays (e.g., `['1'=>'Apple']`).
 - All conversion happens in pure JavaScript — no external dependencies.
 - You can use it in React, Vue, Angular, or plain Node.js projects.
 - The package is ES module–ready: import { ConvertToUnicode } from "bijoy-unicode-converter";
