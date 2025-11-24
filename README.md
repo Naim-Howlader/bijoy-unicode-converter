@@ -19,11 +19,6 @@ const unicodeText = ConvertToUnicode("Avcbvi w`bwU ïf ‡nvK|");
 console.log(unicodeText);
 ```
 
-## Bijoy Unicode Converter
-
-This package provides a simple, reusable Bijoy to Unicode converter for JavaScript applications.
-It allows developers to easily convert Bangla text written in Bijoy font encoding (like SutonnyMJ) into standard Unicode, making it compatible with modern web applications, React, Vue, or any JavaScript framework.
-
 ---
 
 ## 💡 Tips
