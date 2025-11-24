@@ -19,16 +19,10 @@ const unicodeText = ConvertToUnicode("Avcbvi w`bwU ïf ‡nvK|");
 console.log(unicodeText);
 ```
 
-## Livewire Multiselect Package
+## Bijoy Unicode Converter
 
-This package provides a simple, reusable multiselect component for Livewire applications, without the need for any JavaScript.  
-It allows developers to easily integrate multiple selections, handle live updates, and keep the UI fully reactive using Livewire events.
-
----
-
-## 📦 License
-
-MIT License — free to use and modify.
+This package provides a simple, reusable Bijoy to Unicode converter for JavaScript applications.
+It allows developers to easily convert Bangla text written in Bijoy font encoding (like SutonnyMJ) into standard Unicode, making it compatible with modern web applications, React, Vue, or any JavaScript framework.
 
 ---
 
@@ -46,6 +40,12 @@ MIT License — free to use and modify.
 
 This package was created to simplify the process of converting Bangla text from Bijoy fonts to Unicode in modern JavaScript projects.
 It ensures your Bangla text is properly rendered across web applications and can be used in databases, React components, or any front-end framework without worrying about font-based encoding issues.
+
+---
+
+## 📦 License
+
+MIT License — free to use and modify.
 
 ---
 
