@@ -1,7 +1,3 @@
-const { add } = require("./helpers/math");
-const { formatUpper } = require("./utils/formatter");
+import { add } from "./helpers/math.js";
 
-module.exports = {
-  add,
-  formatUpper,
-};
+export { add };
