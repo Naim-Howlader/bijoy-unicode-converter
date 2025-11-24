@@ -1,0 +1,12 @@
+{
+  "name": "bijoy-unicode-converter",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "files": [
+    "dist"
+  ]
+}
