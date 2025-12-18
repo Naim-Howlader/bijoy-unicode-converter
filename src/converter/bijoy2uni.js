@@ -3,6 +3,7 @@ import {
   IsBanglaHalant,
   IsBanglaKar,
   IsBanglaNukta,
+  IsBanglaPostKar,
   IsBanglaPreKar,
   IsSpace,
 } from "./common.js";
@@ -218,7 +219,6 @@ var bijoy_string_conversion_map = {
   y: "ু",
   z: "ু",
   "~": "ূ",
-  ",": "ূ",
   "„": "ৃ",
   "‡": "ে",
   "†": "ে",
@@ -448,7 +448,6 @@ var somewherein_string_conversion_map = {
   y: "ু",
   z: "ু",
   "~": "ূ",
-  ",": "ূ",
   "„": "ৃ",
   "‡": "ে",
   "†": "ে",

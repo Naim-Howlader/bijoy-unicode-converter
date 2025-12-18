@@ -114,7 +114,7 @@ export function IsBanglaPreKar(CUni) {
   if (CUni == "ি" || CUni == "ৈ" || CUni == "ে") return true;
   return false;
 }
-function IsBanglaPostKar(CUni) {
+export function IsBanglaPostKar(CUni) {
   if (
     CUni == "া" ||
     CUni == "ো" ||
