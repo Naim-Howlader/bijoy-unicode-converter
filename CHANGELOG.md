@@ -2,3 +2,8 @@
 
 - Added new feature: Convert text from Unicode to Bijoy.
 - Full text conversion remains unchanged
+
+## 0.1.1 (2025-12-18)
+
+- Bug fix: Convertion bug fix ("ূ" with "," and "~")
+- Full text conversion remains unchanged
